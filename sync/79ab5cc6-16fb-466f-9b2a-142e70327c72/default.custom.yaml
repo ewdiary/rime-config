@@ -1,0 +1,20 @@
+customization:
+    distribution_code_name: Weasel
+    distribution_version: 0.16.1
+    generator: "Rime::SwitcherSettings"
+    modified_time: "Mon Aug 19 21:56:54 2024"
+    rime_version: 1.11.2
+patch:
+    ascii_composer:
+        good_old_caps_lock: false
+        switch_key:
+            {
+                Caps_Lock: clear,
+                Control_L: noop,
+                Control_R: noop,
+                Shift_L: noop,
+                Shift_R: noop,
+            }
+    "menu/page_size": 5
+    schema_list:
+        - { schema: liur }

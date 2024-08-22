@@ -1,0 +1,47 @@
+customization:
+    distribution_code_name: Weasel
+    distribution_version: 0.16.1
+    generator: "Weasel::UIStyleSettings"
+    modified_time: "Mon Aug 19 13:26:58 2024"
+    rime_version: 1.11.2
+patch:
+    "preset_color_schemes/rime-gruvbox-blue":
+        author: ewd
+        back_color: 0x282828
+        border_color: 0x282828
+        candidate_text_color: 0xB2DBEB
+        comment_text_color: 0x2490BF
+        hilited_back_color: 0x36383C
+        hilited_candidate_back_color: 0x454950
+        hilited_candidate_text_color: 0xB5C49C
+        hilited_text_color: 0xA2B08C
+        name: "rime-gruvbox-blue"
+        text_color: 0xB5C49C
+    "preset_color_schemes/rime-kanagawa-red":
+        author: ewd
+        back_color: 0x161618
+        border_color: 0x161618
+        candidate_text_color: 0xA8B3B5
+        comment_text_color: 0x9FA9AB
+        hilited_back_color: 0x272728
+        hilited_candidate_back_color: 0x5A5E62
+        hilited_candidate_text_color: 0xA595D2
+        hilited_text_color: 0x93C0C8
+        name: "rime-kanagawa"
+        text_color: 0xBEC2FA
+    "preset_color_schemes/rime-matcha":
+        author: ewd
+        back_color: 0x272320
+        border_color: 0x272320
+        candidate_text_color: 0xBFC4D7
+        comment_text_color: 0x9B9CB5
+        hilited_back_color: 0x514C49
+        hilited_candidate_back_color: 0x433D3B
+        hilited_candidate_text_color: 0xC2C6D6
+        hilited_text_color: 0xA9ACDE
+        name: "rime-matcha"
+        text_color: 0xBEC2FA
+    "style/color_scheme": "rime-matcha"
+    "style/font_face": "LXGW WenKai"
+    "style/font_point": 15
+    "style/horizontal": false

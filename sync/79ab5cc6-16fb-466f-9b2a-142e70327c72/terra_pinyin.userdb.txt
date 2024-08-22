@@ -1,0 +1,887 @@
+# Rime user dictionary
+#@/db_name	terra_pinyin
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	1466
+#@/user_id	79ab5cc6-16fb-466f-9b2a-142e70327c72
+a5 	啊	c=4 d=2.69236 t=794
+ai4 	唉	c=1 d=1 t=519
+ai4 qing2 	愛情	c=1 d=1 t=595
+ai4 shi4 	愛是	c=0 d=0.1 t=117
+ai4 shu1 	愛書	c=0 d=0.1 t=727
+ai4 shu1 shi4 	愛書是	c=1 d=1 t=728
+an1 quan2 	安全	c=1 d=1 t=512
+an4 jian4 	案件	c=1 d=1 t=1321
+ba1 	吧	c=6 d=4.41137 t=795
+ba1 shi4 	巴士	c=1 d=1 t=110
+bai3 zhe5 	擺着	c=1 d=1 t=360
+ban1 	搬	c=1 d=1 t=1184
+ban3 ben3 	版本	c=1 d=1 t=7
+ban4 fa3 	辦法	c=1 d=1 t=1255
+ban4 sui2 	伴隨	c=1 d=1 t=213
+ban4 tian1 	半天	c=1 d=1 t=789
+bao3 chi2 	保持	c=1 d=1 t=1369
+bao3 cun2 	保存	c=1 d=1 t=1267
+bei4 	被	c=6 d=1.41963 t=1441
+bei4 ren2 	被人	c=1 d=1 t=434
+bei4 wo3 	被我	c=1 d=1 t=909
+bei4 zi5 	被子	c=1 d=1 t=299
+ben3 	本	c=1 d=1 t=1178
+ben3 shen1 	本身	c=1 d=1 t=1246
+bi3 shi4 	鄙視	c=1 d=1 t=815
+bi4 xu1 	必須	c=1 d=1 t=1242
+bi4 ye4 	畢業	c=1 d=1 t=1435
+bian4 	便	c=1 d=1 t=257
+bian4 cheng2 	變成	c=3 d=1.05047 t=1264
+bian4 de5 	變得	c=1 d=1 t=1010
+biao3 yan3 	表演	c=1 d=1 t=1398
+bie2 ren2 	別人	c=2 d=1.956 t=444
+bing4 	並	c=1 d=1 t=388
+bing4 	病	c=1 d=1 t=546
+bing4 bu4 	並不	c=0 d=0.1 t=391
+bing4 bu4 jue2 de5 	並不覺得	c=1 d=1 t=392
+bing4 bu4 shi4 	並不是	c=2 d=1.44043 t=585
+bo2 	駁	c=1 d=1 t=521
+bu2 jian4 	不見	c=1 d=1 t=933
+bu2 shi4 	不是	c=1 d=1 t=820
+bu2 yao4 	不要	c=2 d=1.97045 t=447
+bu4 	不	c=3 d=1.01253 t=1418
+bu4 ceng2 	不曾	c=2 d=1.04596 t=885
+bu4 cuo4 	不錯	c=2 d=1.25924 t=796
+bu4 fen4 	部分	c=2 d=1.91393 t=1423
+bu4 guo4 	不過	c=2 d=1.04036 t=930
+bu4 jin3 	不僅	c=1 d=1 t=277
+bu4 ke3 yi3 	不可以	c=3 d=2.92669 t=846
+bu4 qu4 	不去	c=1 d=1 t=428
+bu4 ren3 xin1 	不忍心	c=1 d=1 t=707
+bu4 shang4 	不上	c=1 d=1 t=1185
+bu4 shao3 	不少	c=1 d=1 t=531
+bu4 shi4 	不適	c=2 d=1.02901 t=819
+bu4 zhi1 	不知	c=1 d=1 t=192
+bu4 zhi1 suo3 cuo4 	不知所措	c=1 d=1 t=195
+cai2 	才	c=5 d=1.554 t=1257
+cai2 mai3 	纔買	c=1 d=1 t=672
+cai2 you3 	纔有	c=2 d=1.99501 t=1254
+cai2 zhi2 	材質	c=2 d=1.18825 t=558
+cang2 zai4 	藏在	c=1 d=1 t=156
+cao1 zong4 	操縱	c=1 d=1 t=1053
+cao3 	草	c=1 d=1 t=620
+ceng2 	曾	c=2 d=1.3624 t=1371
+chan3 ye4 	產業	c=1 d=1 t=1175
+chang2 lang2 	長廊	c=1 d=1 t=173
+chang2 ye4 	長夜	c=1 d=1 t=1174
+chao2 xiao4 	嘲笑	c=1 d=1 t=1370
+che1 	車	c=1 d=1 t=478
+chen2 jin4 	沉浸	c=1 d=1 t=1224
+chen4 	襯	c=1 d=1 t=1432
+cheng2 	成	c=1 d=1 t=327
+cheng2 jin4 	成進	c=1 d=1 t=1223
+cheng2 nian2 	成年	c=1 d=1 t=1380
+cheng2 wei2 	成爲	c=4 d=2.01076 t=1354
+chi1 le5 	喫了	c=1 d=1 t=903
+chi2 le5 	遲了	c=1 d=1 t=904
+chong1 chi4 	充斥	c=1 d=1 t=937
+chong1 tu1 	衝突	c=1 d=1 t=226
+chu1 bu4 	初步	c=1 d=1 t=1113
+chu1 fa1 	出發	c=1 d=1 t=71
+chu2 chuang1 	櫥窗	c=1 d=1 t=869
+chu2 le5 	除了	c=1 d=1 t=337
+chu4 fa1 	觸發	c=1 d=1 t=72
+chu4 peng4 	觸碰	c=1 d=1 t=1298
+chuan2 	傳	c=1 d=1 t=1210
+chuang4 zao4 	創造	c=1 d=1 t=587
+chuang4 zuo4 	創作	c=1 d=1 t=559
+ci3 	此	c=2 d=1.59156 t=1239
+ci3 ke4 	此刻	c=1 d=1 t=596
+ci4 a5 hui4 	次啊會	c=1 d=1 t=498
+ci4 yang3 	刺癢	c=1 d=1 t=335
+cong2 	從	c=1 d=1 t=389
+cong2 xiao3 	從小	c=1 d=1 t=1318
+cong2 zhong1 	從中	c=1 d=1 t=1089
+cu1 cao1 	粗糙	c=1 d=1 t=1463
+cui1 mian2 	催眠	c=0 d=0.1 t=1231
+cui1 mian2 shi4 	催眠式	c=1 d=1 t=1232
+cun2 	存	c=1 d=1 t=1275
+cun2 zai4 	存在	c=2 d=1.40252 t=452
+da3 kai1 	打開	c=1 d=1 t=891
+da3 le5 	打了	c=1 d=1 t=697
+da4 	大	c=2 d=1.2743 t=1031
+da4 gai4 	大概	c=1 d=1 t=1424
+da4 gui1 mo2 	大規模	c=1 d=1 t=1170
+da4 liang4 	大量	c=1 d=1 t=934
+da4 yue1 	大約	c=1 d=1 t=1407
+da4 zhong4 	大衆	c=3 d=2.29942 t=1366
+dai4 	帶	c=1 d=1 t=1379
+dai4 ding4 	待定	c=2 d=1.99501 t=575
+dai4 ma3 	代碼	c=1 d=1 t=836
+dan1 	丹	c=1 d=1 t=1374
+dan1 ren4 	擔任	c=3 d=2.87883 t=1390
+dan4 	但	c=6 d=2.37494 t=883
+dang1 	當	c=1 d=1 t=782
+dang1 chang2 	當場	c=1 d=1 t=1164
+dang1 ran2 	當然	c=1 d=1 t=649
+dang1 rang4 	當讓	c=1 d=1 t=648
+dang4 cheng2 	當成	c=1 d=1 t=1165
+dao3 	倒	c=1 d=1 t=1446
+dao3 zhi4 	導致	c=1 d=1 t=737
+dao4 	到	c=35 d=12.047 t=454
+dao4 	道	c=1 d=1 t=267
+dao4 ju4 	道具	c=1 d=1 t=206
+dao4 le5 	到了	c=1 d=1 t=152
+dao4 shi4 	倒是	c=3 d=1.88077 t=767
+dao4 shi4 	道士	c=1 d=1 t=1131
+de2 	得	c=2 d=1.02665 t=808
+de2 bu4 xi1 	德布西	c=1 d=1 t=1037
+de5 	的	c=96 d=13.0886 t=1464
+deng1 	燈	c=1 d=1 t=356
+di2 que4 	的確	c=1 d=1 t=840
+di3 bu4 	底部	c=2 d=1.99501 t=177
+di4 fang1 	地方	c=1 d=1 t=398
+di4 xia4 	地下	c=1 d=1.099 t=119
+di4 xia4 ai4 shi4 	地下愛是	c=1 d=1 t=118
+di4 yi1 ci4 	第一次	c=1 d=1 t=353
+dian3 kai1 	點開	c=1 d=1 t=961
+dian3 li3 	典禮	c=1 d=1 t=1437
+dian4 	店	c=1 d=1 t=486
+dian4 li3 	店裏	c=4 d=1.07313 t=1436
+dian4 li4 	電力	c=1 d=1 t=682
+dian4 nei4 	店內	c=1 d=1 t=1333
+dian4 zhang3 	店長	c=2 d=1.9802 t=1204
+dian4 zi3 	電子	c=1 d=1 t=228
+diao4 zhe5 	吊着	c=1 d=1 t=350
+ding4 	訂	c=1 d=1 t=91
+dong1 mei2 	冬梅	c=1 d=1 t=560
+dong4 	動	c=1 d=1 t=565
+dong4 hua4 	動畫	c=2 d=1.2658 t=826
+dong4 kong3 	洞孔	c=1 d=1 t=212
+dong4 luan4 	動亂	c=1 d=1 t=1171
+dong4 shou3 	動手	c=1 d=1 t=84
+dou1 hui2 	都回	c=1 d=1 t=16
+dou1 you3 	都有	c=2 d=1.39852 t=788
+du2 zhe3 	讀者	c=1 d=1 t=859
+duan3 zhan4 	短暫	c=1 d=1 t=1372
+dui4 	對	c=4 d=2.03605 t=1154
+dui4 shei2 	對誰	c=2 d=1.93707 t=412
+duo1 jiu3 	多久	c=1 d=1 t=711
+duo2 zou3 	奪走	c=2 d=1.98511 t=730
+e2 	額	c=9 d=2.32364 t=753
+e2 a5 	額啊	c=1 d=1 t=1050
+e4 dao4 	惡道	c=1 d=1 t=149
+e4 yi4 	惡意	c=1 d=1 t=423
+ei1 	誒	c=1 d=1.00444 t=776
+er2 	而	c=2 d=1.0102 t=982
+er2 chu1 	而出	c=2 d=1.99501 t=965
+er2 fei1 	而非	c=0 d=0.1 t=1031
+er2 fei1 da4 	而非大	c=1 d=1 t=1032
+er2 shi4 	而是	c=1 d=1 t=590
+er2 yi3 	而已	c=1 d=1 t=850
+er3 ru2 mu4 ran3 	耳濡目染	c=1 d=1 t=1311
+fa1 jue2 	發覺	c=1 d=1 t=1031
+fa1 sheng1 	發生	c=1 d=1 t=1169
+fa1 xian4 	發現	c=1 d=1 t=1090
+fa3 	法	c=1 d=1 t=1385
+fan3 er2 	反而	c=1 d=1.00015 t=1341
+fan3 zheng1 	反正	c=1 d=1 t=1454
+fang1 	方	c=1 d=1 t=359
+fang1 xing2 	方形	c=1 d=1 t=331
+fang2 jian1 	房間	c=3 d=1.13449 t=881
+fang3 fu2 	彷彿	c=2 d=1.0246 t=1005
+fang4 	放	c=2 d=1.01015 t=1276
+fang4 ru4 	放入	c=1 d=1 t=207
+fei1 fa3 	非法	c=2 d=1.45841 t=1322
+fen1 	分	c=1 d=1 t=1408
+fen1 bian4 	分辨	c=1 d=1 t=56
+fu2 chuan4 	符串	c=1 d=1 t=1208
+fu4 	父	c=1 d=1 t=1209
+fu4 dan1 	負擔	c=2 d=1.88692 t=438
+fu4 jia1 	附加	c=1 d=1 t=1215
+fu4 jin4 	附近	c=1 d=1 t=278
+fu4 qin1 	父親	c=2 d=1.57984 t=1320
+fu4 za2 	複雜	c=1 d=1 t=235
+fu4 ze2 	負責	c=1 d=1 t=1332
+gan3 jue2 	感覺	c=2 d=1.97531 t=529
+gan3 zhi1 	感知	c=1 d=1 t=1299
+gan4 ma2 	幹嘛	c=1 d=1 t=743
+gang1 	剛	c=1 d=1 t=255
+gao1 su4 	高速	c=1 d=1 t=1015
+gao4 su4 	告訴	c=1 d=1 t=1014
+ge4 	個	c=2 d=1.01036 t=960
+ge4 zi4 	各自	c=2 d=1.99005 t=453
+gen1 	跟	c=2 d=1.36604 t=852
+gen1 shei2 	跟誰	c=2 d=1.9802 t=647
+gen1 wo3 	跟我	c=1 d=1 t=625
+gen1 zhe5 	跟着	c=1 d=1 t=1009
+gong1 hui4 	工會	c=1 d=1 t=484
+gong1 zuo4 	工作	c=1 d=1 t=1188
+gu1 du2 	孤獨	c=1 d=1 t=548
+gu4 ding4 	固定	c=1 d=1 t=673
+gu4 shi4 	故事	c=1 d=1 t=588
+guan1 lian2 	關聯	c=1 d=1 t=571
+guan1 xi4 	關係	c=1 d=1 t=556
+guan3 dai4 	管帶	c=1 d=1 t=566
+guan3 li3 	管理	c=1 d=1 t=471
+guang1 	光	c=1 d=1 t=339
+guang1 diao1 	光雕	c=1 d=1 t=567
+guang1 xian4 	光線	c=2 d=1.99005 t=169
+guang1 yuan2 	光源	c=1 d=1 t=344
+guang1 yun4 	光暈	c=1 d=1 t=1075
+gui4 tai2 	櫃檯	c=5 d=3.93707 t=252
+guo3 ran2 	果然	c=1 d=1 t=14
+guo3 ru2 	果如	c=1 d=1 t=748
+guo4 	過	c=1 d=1 t=310
+guo4 qu4 	過去	c=4 d=1.57138 t=1054
+guo4 zuo4 	過做	c=1 d=1 t=757
+ha1 ha1 	哈哈	c=1 d=1 t=843
+hai2 	還	c=3 d=1.49691 t=923
+hai2 mei2 	還沒	c=1 d=1 t=1447
+hai2 mei2 you3 	還沒有	c=1 d=1 t=305
+hai2 shi4 	還是	c=1 d=1 t=82
+hai2 yong4 shuo1 	還用說	c=1 d=1 t=655
+hai3 	海	c=1 d=1 t=975
+hao2 bu4 	毫不	c=2 d=1.99501 t=218
+hao2 yu3 	豪雨	c=1 d=1 t=996
+hao3 xiang4 	好像	c=2 d=1.96079 t=809
+hao3 yu2 	好於	c=1 d=1 t=995
+hao3 yun4 	好運	c=1 d=0.654327 t=244
+hao4 	號	c=1 d=1 t=547
+he2 	和	c=3 d=2.74595 t=1137
+he2 li3 	合理	c=1 d=1 t=889
+hen2 ji1 	痕跡	c=1 d=1 t=293
+hen3 	很	c=2 d=1.73868 t=888
+hen3 nan2 	很難	c=1 d=1 t=599
+hen3 nan2 jing1 	很南京	c=1 d=1 t=598
+hou4 	後	c=2 d=1.72979 t=1382
+hou4 o1 	後喔	c=1 d=1 t=1097
+hua2 	滑	c=1 d=1 t=893
+hua4 	話	c=4 d=1.38402 t=828
+huan2 	環	c=2 d=1.28365 t=1329
+huan3 man4 	緩慢	c=1 d=1 t=1011
+huan4 	換	c=1 d=1 t=1330
+huan4 cheng2 	換成	c=1 d=1 t=373
+hui2 dao4 jia1 	回到家	c=1 d=1 t=1338
+hui2 tou2 	回頭	c=1 d=1 t=313
+hui4 	會	c=7 d=1.21961 t=1400
+hun1 yin1 	婚姻	c=1 d=1 t=580
+huo2 zhe5 	活着	c=1 d=1 t=463
+huo3 	火	c=3 d=1.9265 t=1304
+huo3 guang1 	火光	c=1 d=1 t=340
+huo4 	或	c=1 d=1 t=1305
+huo4 de2 	獲得	c=1 d=1 t=510
+huo4 zhe3 	或者	c=1 d=1 t=462
+ji1 guan1 	機關	c=2 d=1.7827 t=197
+ji1 hui4 	機會	c=1 d=1 t=610
+ji1 xie4 	機械	c=1 d=1 t=229
+ji2 	及	c=5 d=1.83485 t=1352
+ji2 hui4 	集會	c=2 d=1.54607 t=609
+ji2 jing4 	寂靜	c=1 d=1 t=879
+ji2 shi4 	即是	c=2 d=1.59156 t=1237
+ji2 ti3 	集體	c=1 d=1 t=1438
+ji3 ya1 	擠壓	c=1 d=1 t=946
+ji4 	寄	c=1 d=1 t=1279
+ji4 lu4 	記錄	c=1 d=1 t=920
+ji4 yi4 	技藝	c=2 d=1.59156 t=1240
+ji4 yi4 	記憶	c=1 d=1 t=1303
+jia1 	家	c=1 d=1 t=680
+jian1 	兼	c=1 d=1 t=1203
+jian4 	濺	c=1 d=1 t=1433
+jian4 dao4 	見到	c=1 d=1 t=354
+jian4 mian4 	見面	c=1 d=1 t=790
+jian4 shang3 	鑑賞	c=1 d=1 t=501
+jian4 shi4 	見識	c=1 d=1 t=503
+jian4 yi4 	建議	c=1 d=1 t=504
+jiang1 	將	c=4 d=1.78034 t=1364
+jiang1 wo4 	僵臥	c=1 d=1 t=997
+jiang3 	講	c=1 d=1 t=11
+jiao1 liu2 	交流	c=1 d=1 t=502
+jiao4 shi1 	教師	c=3 d=2.92644 t=1392
+jie1 	接	c=3 d=2.19842 t=295
+jie1 	街	c=7 d=3.05921 t=1092
+jie1 kai1 	揭開	c=1 d=1 t=144
+jie1 shou1 	接收	c=1 d=1 t=1294
+jie1 shou4 	接受	c=1 d=1 t=1293
+jie1 xu4 	接續	c=1 d=1 t=1413
+jie3 du2 	解讀	c=1 d=1 t=1084
+jie3 kai1 	解開	c=2 d=1.97045 t=151
+jin1 ri4 	今日	c=1 d=1 t=901
+jin3 liang4 	儘量	c=1 d=1 t=430
+jin4 hu1 	近乎	c=1 d=1 t=906
+jing1 ying2 	經營	c=2 d=1.86936 t=1336
+jiu3 gong1 	九宮	c=1 d=1 t=731
+jiu4 	就	c=3 d=1.0264 t=987
+jiu4 	舊	c=1 d=1 t=1442
+jiu4 hui4 	就會	c=1 d=1 t=962
+jiu4 qi3 	救起	c=1 d=1 t=475
+jiu4 shi4 	就是	c=1 d=1 t=494
+jiu4 xiang4 	就像	c=1 d=1 t=472
+ju4 you3 	具有	c=1 d=1 t=1248
+jue2 de5 	覺得	c=1 d=1.01294 t=800
+jue2 shi4 	爵士	c=1 d=1 t=1033
+ka3 	卡	c=1 d=1 t=1427
+kai1 	開	c=1 d=1 t=894
+kai1 guan1 	開關	c=1 d=1 t=986
+kai1 kou3 	開口	c=1 d=1 t=740
+kan1 guo4 	看過	c=1 d=1 t=1448
+kan4 	看	c=2 d=1.39063 t=856
+kan4 jian4 	看見	c=1 d=1 t=910
+kan4 qing1 	看清	c=1 d=1 t=171
+kao3 lv4 	考慮	c=1 d=1 t=832
+ke1 	科	c=1 d=1 t=1339
+ke1 ji4 	科技	c=1 d=1 t=553
+ke2 	殼	c=1 d=1 t=1462
+ke3 	可	c=1 d=1 t=1451
+ke3 neng2 	可能	c=0 d=0.1 t=1059
+ke3 neng2 ma5 	可能嗎	c=1 d=1 t=1060
+ke3 yi3 	可以	c=5 d=1.79314 t=1214
+ken3 ding4 	肯定	c=1 d=1 t=764
+kou3 dai4 	口袋	c=1 d=1 t=157
+kua1 zhang1 	誇張	c=1 d=1 t=61
+kui1 dao4 	虧到	c=1 d=1 t=1461
+kui1 qian2 	虧錢	c=1 d=1 t=395
+kui1 qian4 	虧欠	c=1 d=1 t=400
+kun4 rao3 	困擾	c=1 d=1 t=409
+la1 	拉	c=1 d=1 t=1455
+la5 	啦	c=2 d=1.0256 t=823
+lai2 	來	c=2 d=1.02802 t=1105
+lai2 le5 	來了	c=2 d=1.01463 t=977
+lai2 yuan2 	來源	c=1 d=1 t=1120
+lao2 yu4 	牢獄	c=1 d=1 t=1326
+lao3 ban3 	老闆	c=1 d=1 t=694
+le5 	了	c=15 d=2.52244 t=979
+le5 ba1 	了吧	c=2 d=1.69073 t=716
+li2 jia1 	離家	c=1 d=1 t=1381
+li2 kai1 	離開	c=1 d=1 t=703
+li3 jie3 	理解	c=1 d=1 t=606
+li3 lun4 	理論	c=1 d=1 t=1160
+li4 ru2 	例如	c=1 d=1 t=756
+lian2 xiang3 	聯想	c=1 d=1 t=115
+lian3 cai2 	斂財	c=1 d=1 t=1157
+lian4 	練	c=2 d=1.06457 t=597
+liang3 ge4 	兩個	c=1 d=1 t=1404
+liang3 tian1 	兩天	c=1 d=1 t=932
+liao3 jie3 	瞭解	c=1 d=1 t=607
+lin2 zou3 	臨走	c=1 d=1 t=138
+ling2 	靈	c=4 d=3.20478 t=1271
+ling2 sheng1 	鈴聲	c=2 d=1.99501 t=875
+ling2 ting1 	聆聽	c=2 d=1.97045 t=514
+ling4 ren2 	令人	c=1 d=1 t=191
+ling4 yi1 	另一	c=0 d=0.1 t=1015
+ling4 yi1 tou2 	另一頭	c=1 d=1 t=1016
+liu2 cheng2 	流程	c=1 d=1 t=573
+liu2 dong4 	流動	c=1 d=1 t=1102
+liu2 lan3 	瀏覽	c=1 d=1 t=921
+lou4 dong4 	漏洞	c=2 d=1.00947 t=1026
+luo2 ji2 	邏輯	c=1 d=1 t=75
+lv3 xing2 	旅行	c=2 d=1.9802 t=762
+lv4 se4 	綠色	c=2 d=1.99005 t=372
+ma2 fan5 	麻煩	c=1 d=1 t=450
+ma3 	瑪	c=2 d=1.99005 t=1345
+ma3 fang4 	碼放	c=1 d=1 t=449
+ma5 	嗎	c=3 d=0.766989 t=1059
+mai3 	買	c=1 d=1 t=678
+man2 	蠻	c=4 d=1.59785 t=677
+man3 nan2 	滿難	c=1 d=1 t=54
+mei2 qu4 	沒去	c=1 d=1 t=474
+mei2 shen2 me5 	沒什麼	c=1 d=1 t=841
+mei2 you3 	沒有	c=2 d=1.94649 t=422
+mei3 	美	c=1 d=1 t=562
+mei3 ge5 ren2 	每個人	c=1 d=1 t=603
+mei3 ri4 	每日	c=2 d=1.52466 t=916
+men2 	門	c=3 d=2.69182 t=268
+men2 shang4 	門上	c=1 d=1 t=146
+mi4 mi4 	祕密	c=1 d=1 t=1
+mian4 mao4 	面貌	c=1 d=1 t=617
+min2 jian1 	民間	c=1 d=1 t=1359
+ming2 jian4 	名劍	c=1 d=1 t=1358
+mo2 shu4 	魔術	c=8 d=4.20248 t=1368
+mo2 shu4 shi1 	魔術師	c=4 d=1.14787 t=1176
+mo2 shu4 si3 	魔術死	c=1 d=1 t=482
+mo4 shi4 	沒事	c=1 d=1.00112 t=1144
+mo4 shi4 shi4 	沒事是	c=1 d=1 t=246
+mou3 zhong3 	某種	c=1 d=1 t=1278
+mu4 	暮	c=1 d=1 t=621
+mu4 biao1 	目標	c=1 d=1 t=760
+mu4 di4 	目的	c=1 d=1 t=1361
+mu4 men2 	木門	c=4 d=3.16977 t=261
+mu4 qian2 	目前	c=1 d=1 t=1395
+mu4 shen2 	牧神	c=1 d=1 t=1048
+mu4 zao4 	木造	c=3 d=1.96872 t=318
+na2 chu1 	拿出	c=2 d=1.79852 t=200
+na2 dao4 	拿到	c=2 d=1.06822 t=802
+na2 diao4 	拿掉	c=1 d=1 t=375
+na4 	那	c=4 d=1.1724 t=1376
+na4 ge5 	那個	c=1 d=1 t=476
+na4 shi4 jie4 ji2 	那世界級	c=1 d=1 t=613
+nan2 	男	c=1 d=1 t=868
+nan2 dao4 	難道	c=1 d=1 t=803
+nan2 jing1 	南京	c=0 d=0.1 t=597
+nao3 hai3 	腦海	c=1 d=1 t=489
+ne5 	呢	c=1 d=1 t=771
+neng2 li4 	能力	c=2 d=1.12556 t=1228
+ni3 	你	c=3 d=1.37587 t=854
+ni3 	妳	c=5 d=3.82204 t=806
+ni3 de5 	你的	c=1 d=1 t=129
+ni3 men5 	你們	c=0 d=0.1 t=1054
+ni3 you3 	你有	c=1 d=1 t=749
+ni4 shui3 	溺水	c=2 d=1.99005 t=978
+nian2 	年	c=3 d=2.13239 t=1112
+nian2 ji4 	年紀	c=1 d=1 t=695
+nian2 ling2 	年齡	c=1 d=1 t=1122
+ning2 jie2 	凝結	c=1 d=1 t=1002
+nu2 	奴	c=1 d=1 t=1375
+nv3 shi4 	女士	c=1 d=1 t=480
+o1 	喔	c=1 d=1 t=858
+o1 	噢	c=1 d=1 t=857
+ou3 	偶	c=1 d=1.08869 t=523
+pai2 chu2 	排除	c=1 d=1 t=1190
+pai4 	派	c=1 d=1 t=1041
+pan4 duan4 	判斷	c=2 d=1.00937 t=1106
+pan4 ming4 	拚命	c=1 d=1 t=309
+pao3 le5 	跑了	c=1 d=1 t=1192
+pei2 xun4 	培訓	c=0 d=0.1 t=499
+pei2 xun4 ou3 	培訓偶	c=1 d=1 t=500
+pian4 duan4 	片段	c=1 d=1 t=1307
+piao1 san4 	飄散	c=1 d=1 t=1066
+piao2 	瓢	c=1 d=1 t=93
+ping2 fu4 	平復	c=1 d=1 t=1172
+ping2 ni3 	憑你	c=1 d=1 t=123
+ping2 zhe5 	憑着	c=1 d=1 t=162
+po4 	破	c=5 d=1.01039 t=1403
+po4 bai4 	破敗	c=2 d=1.00947 t=1431
+po4 hai4 	迫害	c=1 d=1 t=1316
+pu3 tong1 	普通	c=1 d=1 t=185
+qi1 dai4 	期待	c=1 d=1 t=866
+qi2 	其	c=1 d=1 t=1044
+qi2 chang4 	齊唱	c=1 d=1 t=1061
+qi2 shi2 	其實	c=1 d=1 t=804
+qi2 zhong1 	其中	c=1 d=1 t=734
+qi3 	玘	c=1 d=1 t=8
+qi4 	氣	c=2 d=1.93239 t=1076
+qi4 wei4 	氣味	c=1 d=1 t=113
+qi4 xi2 	氣息	c=1 d=1 t=1004
+qia3 dao4 	卡到	c=1 d=1 t=1415
+qian1 dao4 	簽到	c=1 d=1 t=1410
+qian2 	前	c=2 d=1.01228 t=1020
+qian2 	錢	c=1 d=1 t=139
+qian2 dao3 	前導	c=3 d=2.92654 t=1421
+qian2 ti2 	前提	c=1 d=1 t=1243
+qian2 zou4 	前奏	c=1 d=1 t=1038
+qiang2 	牆	c=2 d=1.00391 t=1429
+qiang2 feng1 	強風	c=1 d=1 t=1430
+qiang2 mian4 	牆面	c=1 d=1 t=279
+qie1 ge1 	切割	c=1 d=1 t=291
+qie3 	且	c=3 d=1.00933 t=1140
+qing1 	清	c=1 d=1 t=1285
+qing1 chu3 	清楚	c=1 d=1 t=458
+qing1 cui4 	清脆	c=1 d=1 t=871
+qing1 xie4 	傾瀉	c=1 d=1 t=963
+qing2 gan3 	情感	c=2 d=1.3588 t=1306
+qing2 lang3 	晴朗	c=1 d=1 t=967
+qiu2 sheng1 	求生	c=1 d=1 t=1148
+qu3 	曲	c=1 d=1 t=1039
+qu3 jue2 	取決	c=1 d=1 t=988
+qu4 	去	c=1 d=1 t=591
+quan1 	圈	c=1 d=1 t=21
+quan2 	全	c=0 d=0.1 t=18
+que4 	卻	c=5 d=4.22143 t=324
+que4 ding4 	確定	c=1 d=1 t=822
+que4 shi2 	確實	c=1 d=1 t=64
+qun2 dai4 	裙帶	c=1 d=1 t=1453
+qun2 zhong4 	羣衆	c=1 d=1 t=1181
+ran2 hou4 	然後	c=1 d=1 t=1412
+rao2 she2 	饒舌	c=1 d=1 t=4
+re4 	熱	c=1 d=1 t=1022
+ren2 	人	c=3 d=1.54982 t=1456
+ren2 lei4 	人類	c=1 d=1 t=1100
+ren2 ma3 	人馬	c=0 d=0.1 t=1098
+ren2 ma3 de5 	人馬的	c=1 d=1 t=1099
+rong2 he2 	融合	c=1 d=1 t=275
+ru2 ci3 	如此	c=1 d=1 t=308
+ru2 guo3 	如果	c=3 d=1.35011 t=824
+ru4 	入	c=1 d=1 t=914
+ru4 chang2 	入場	c=1 d=1 t=136
+sa1 	撒	c=1 d=1 t=1196
+sa1 dan4 	撒旦	c=1 d=1 t=1394
+san1 	三	c=1 d=1 t=952
+san1 hang2 	三行	c=1 d=1 t=735
+shan3 guo4 	閃過	c=1 d=1 t=491
+shang4 	上	c=3 d=2.10312 t=1281
+shang4 jie1 	上街	c=2 d=1.9802 t=674
+shang4 le5 	上了	c=1 d=1 t=190
+shao1 wei1 	稍微	c=1 d=1 t=29
+she4 bei4 	設備	c=1 d=1 t=507
+she4 ji2 	涉及	c=1 d=1 t=1315
+she4 ji4 	設計	c=1 d=1 t=1314
+shei2 	誰	c=3 d=2.59165 t=407
+shen1 du4 	深度	c=1 d=1 t=1266
+shen1 xia4 	身下	c=1 d=1 t=1347
+shen2 me5 	什麼	c=6 d=3.98299 t=853
+shen3 shi4 	審視	c=1 d=1 t=723
+shen4 huo4 	甚或	c=1 d=1 t=626
+shen4 zhi4 	甚至	c=3 d=2.01354 t=1162
+shen4 zhi4 shi4 	甚至是	c=1 d=1 t=594
+sheng1 	生	c=2 d=0.206698 t=1345
+sheng1 	聲	c=1 d=1 t=230
+sheng1 huo2 	生活	c=3 d=2.74373 t=660
+sheng1 xi3 ai4 	生喜愛	c=1 d=1 t=1346
+sheng4 jie2 	聖潔	c=1 d=1 t=669
+sheng4 xia5 	剩下	c=1 d=1 t=1348
+shi1 	師	c=1 d=1 t=1233
+shi2 ji1 ge4 	十幾個	c=1 d=1 t=926
+shi2 jian1 	時間	c=4 d=3.01487 t=1095
+shi2 shi1 	實施	c=1 d=1 t=1045
+shi2 xing2 	實行	c=1 d=1 t=1256
+shi3 	史	c=1 d=1 t=1036
+shi3 ming4 	使命	c=1 d=1 t=584
+shi3 yong4 	使用	c=2 d=1.03239 t=1191
+shi4 	事	c=1 d=1 t=754
+shi4 	室	c=1 d=1 t=120
+shi4 	式	c=1 d=1.07045 t=1231
+shi4 	是	c=14 d=2.08843 t=1425
+shi4 bi4 	勢必	c=1 d=1 t=768
+shi4 dao4 	世道	c=2 d=1.5886 t=1229
+shi4 jie4 	世界	c=2 d=1.11765 t=884
+shi4 jie4 ji2 	世界級	c=0 d=0.1 t=612
+shi4 ni3 men5 	是你們	c=1 d=1 t=1055
+shi4 shi4 	逝世	c=1 d=1 t=1046
+shi4 yi2 	事宜	c=1 d=1 t=1335
+shou1 	收	c=1 d=1 t=1029
+shou1 lian3 	收斂	c=1 d=1 t=48
+shou2 	熟	c=1 d=1 t=1082
+shou2 nian3 	熟捻	c=2 d=1.59156 t=1238
+shou3 hu4 	守護	c=1 d=1 t=592
+shou3 ji1 	手機	c=2 d=1.98511 t=895
+shou3 tao4 	手套	c=1 d=1 t=545
+shou3 xi2 	首席	c=1 d=1 t=1081
+shou4 	受	c=1 d=1 t=1030
+shou4 guo4 	受過	c=1 d=1 t=1080
+shu1 li2 	疏離	c=1 d=1 t=517
+shu2 huo4 	熟貨	c=1 d=1 t=741
+shu4 	術	c=4 d=1.86787 t=1384
+shu4 ke1 	術科	c=1 d=1 t=1391
+shu4 zi4 	數字	c=2 d=1.96561 t=954
+shuai1 xia4 	摔下	c=1 d=1 t=477
+shun4 jian1 	瞬間	c=2 d=1.99005 t=287
+shuo1 de5 	說的	c=1 d=1 t=844
+shuo1 hua4 	說話	c=2 d=1.89137 t=742
+shuo1 wan2 	說完	c=1 d=1 t=256
+si3 	死	c=1 d=1.03239 t=481
+si4 de5 	似的	c=1 d=1 t=271
+si4 zhou1 	四周	c=1 d=1 t=326
+song1 dong4 	鬆動	c=1 d=1 t=1021
+song1 kai1 	鬆開	c=2 d=1.96561 t=239
+suan4 ming4 	算命	c=1 d=1 t=1126
+suan4 shi4 	算是	c=0 d=0.1 t=636
+suan4 suan4 	算算	c=1 d=1 t=713
+sui1 ran2 	雖然	c=1 d=1 t=701
+sui2 ji1 	隨機	c=1 d=1 t=532
+sui4 an4 	歲按	c=1 d=1 t=700
+suo3 	所	c=1 d=1 t=564
+suo3 	鎖	c=3 d=1.3929 t=563
+suo3 cuo4 	所錯	c=1 d=1 t=193
+suo3 wei4 	所謂	c=2 d=1.99501 t=1236
+suo3 yi3 	所以	c=1 d=1 t=497
+suo3 you3 	所有	c=1 d=1 t=1334
+ta1 	他	c=2 d=1.00874 t=1440
+ta1 	它	c=3 d=1.21832 t=593
+ta1 ren2 	他人	c=1 d=1 t=1301
+tai2 	台	c=2 d=1.00589 t=1393
+tai2 mian4 	檯面	c=1 d=1 t=1186
+tai2 wan1 	臺灣	c=2 d=1.00607 t=1024
+tai2 zi5 	臺子	c=1 d=1 t=365
+tan1 wu1 	貪污	c=1 d=1 t=1458
+tan2 ren2 	談人	c=1 d=1 t=1300
+te4 	特	c=1 d=1 t=2
+ti2 dao4 	提到	c=2 d=1.99501 t=26
+ti2 gong1 	提供	c=1 d=1 t=76
+ti2 qi3 	提起	c=1 d=1 t=746
+ti3 nei4 	體內	c=2 d=1.92774 t=107
+ti3 yan4 	體驗	c=2 d=1.02858 t=1226
+ting2 liu2 	停留	c=1 d=1 t=924
+ting2 zhi3 	停止	c=1 d=1 t=886
+tong1 chang2 	通常	c=2 d=1.99501 t=1283
+tong1 qi4 	通緝	c=1 d=1 t=1183
+tong2 qi2 	同期	c=1 d=1 t=1182
+tong2 yan2 	童言	c=1 d=1 t=315
+tong2 yang4 	同樣	c=1 d=1 t=316
+tou2 	頭	c=4 d=1.35224 t=1450
+tou2 ying3 	投影	c=1 d=1 t=1213
+tou4 guo4 	透過	c=1 d=1 t=1297
+tu2 pian4 	圖片	c=1 d=1 t=557
+tu2 ran2 	突然	c=1 d=1 t=744
+tu3 	土	c=2 d=1.99005 t=1288
+tui1 	推	c=1 d=1 t=537
+wa3 	瓦	c=1 d=1 t=1340
+wai4 kuo4 	外擴	c=1 d=1 t=506
+wai4 shi4 	外事	c=1 d=1 t=687
+wan2 mei3 	完美	c=1 d=1 t=272
+wan3 shang5 	晚上	c=1 d=1 t=689
+wang2 zi3 	王子	c=1 d=1 t=377
+wang3 shang4 	網上	c=1 d=1 t=688
+wang3 zi5 	網子	c=1 d=1 t=378
+wei1 ruo4 	微弱	c=3 d=2.69827 t=165
+wei2 	爲	c=5 d=2.13621 t=1360
+wei2 du2 	唯獨	c=1 d=1 t=941
+wei2 rao4 	圍繞	c=1 d=1 t=325
+wei2 yi1 	唯一	c=4 d=1.97999 t=1201
+wei2 zhu3 	爲主	c=1 d=1 t=1292
+wei4 	位	c=3 d=2.07272 t=1127
+wei4 dao4 	味道	c=1 d=1 t=536
+wei4 du2 	未讀	c=1 d=1 t=942
+wei4 le5 	爲了	c=2 d=1.06051 t=1147
+wei4 yu2 	位於	c=1 d=1 t=1193
+wei4 zhi4 	位置	c=1 d=1 t=929
+wen2 feng1 bu4 dong4 	紋風不動	c=1 d=1 t=244
+wo3 	我	c=16 d=5.24822 t=999
+wo3 de5 	我的	c=1 d=1 t=990
+wo3 men5 	我們	c=1 d=1 t=708
+wo3 shi4 	我是	c=1 d=1 t=379
+wo3 zi4 ji3 	我自己	c=1 d=1 t=849
+wu2 	無	c=2 d=1.99501 t=301
+wu2 du2 	無毒	c=0 d=0.1 t=18
+wu2 du2 quan2 	無毒全	c=1 d=1 t=19
+wu2 fa3 	無法	c=1 d=1 t=739
+wu2 gan1 	無干	c=1 d=1 t=470
+wu2 ke3 nai4 he2 	無可奈何	c=1 d=1 t=496
+wu2 nai4 	無奈	c=1 d=1 t=427
+wu3 du4 	五度	c=1 d=1 t=20
+wu3 hou4 	午後	c=1 d=1 t=1049
+wu3 ping2 	武平	c=2 d=1.96079 t=1116
+wu4 	物	c=1 d=1 t=1280
+wu4 pin3 	物品	c=2 d=1.96079 t=1117
+wu4 ti3 	物體	c=4 d=1.9696 t=1291
+wu4 zi1 	物資	c=1 d=1 t=685
+xi1 	悉	c=1 d=1 t=1083
+xi1 wang4 	希望	c=1 d=1 t=386
+xi2 	習	c=1 d=1 t=1349
+xi3 ai4 	喜愛	c=0 d=0.1 t=1345
+xi3 huan1 	喜歡	c=1 d=1 t=542
+xia4 	下	c=1 d=1 t=357
+xian2 xin1 	閒心	c=1 d=1 t=600
+xian4 chan3 	限產	c=1 d=1 t=40
+xian4 chang2 	現場	c=1 d=1 t=41
+xian4 zai4 	現在	c=3 d=2.56823 t=693
+xiang1 dang1 	相當	c=2 d=1.81465 t=225
+xiang1 gan1 	相干	c=1 d=1 t=219
+xiang1 xin4 	相信	c=1 d=1 t=601
+xiang3 che4 	響徹	c=1 d=1 t=876
+xiang3 dao4 	想到	c=1 d=1 t=18
+xiang3 guo4 	想過	c=2 d=1.53259 t=750
+xiang3 xiang4 	想象	c=1 d=1 t=619
+xiang3 xiang5 	想想	c=1 d=1 t=618
+xiang3 yao1 	想要	c=1 d=1 t=77
+xiang3 zai4 	想在	c=1 d=1 t=631
+xiang4 	向	c=1 d=1 t=1150
+xiang4 shi4 	像是	c=3 d=2.04581 t=957
+xiang4 zheng1 	象徵	c=1 d=1 t=1040
+xiao1 shi1 	消失	c=1 d=1 t=259
+xiao1 xi2 	消息	c=2 d=1.91851 t=919
+xiao3 jie3 	小姐	c=4 d=3.39103 t=253
+xiao3 jie3 ei1 	小姐誒	c=1 d=1 t=154
+xiao3 shi2 	小時	c=3 d=1.06982 t=927
+xiao3 xiao3 	小小	c=1 d=1 t=950
+xiao4 zhang3 	校長	c=1 d=1 t=1449
+xie2 men2 wai1 dao4 	邪門歪道	c=1 d=1 t=1139
+xin1 	新	c=1 d=1 t=1444
+xin1 ren2 	新人	c=1 d=1 t=249
+xin1 wen2 	新聞	c=1 d=1 t=912
+xin4 ren2 	信任	c=1 d=1 t=248
+xing2 	行	c=1 d=1 t=1152
+xing2 pian4 	行騙	c=1 d=1 t=1156
+xing4 yun4 	幸運	c=2 d=1.13399 t=980
+xiu1 ru4 	羞辱	c=1 d=1 t=1439
+xiu1 xi2 	休息	c=1 d=1 t=1142
+xiu1 xi2 	修習	c=2 d=1.70822 t=1212
+xu1 	需	c=1 d=1 t=779
+xun4 xi2 	訊息	c=2 d=1.86071 t=973
+ya1 po4 	壓迫	c=1 d=1 t=939
+yan1 mo4 	淹沒	c=2 d=1.86502 t=1000
+yan2 	妍	c=1 d=1 t=622
+yan2 jiu4 	研究	c=1 d=1 t=30
+yan2 se4 	顏色	c=2 d=1.65051 t=368
+yan2 shen1 	延伸	c=1 d=1 t=101
+yan2 xu4 	延續	c=1 d=1 t=341
+yan3 chu1 	演出	c=4 d=3.03596 t=572
+yan3 li3 	眼裏	c=1 d=1 t=915
+yan3 qian2 	眼前	c=1 d=1 t=897
+yan3 shen2 	眼神	c=1 d=1 t=100
+yan4 zi5 	燕子	c=2 d=1.99501 t=635
+yang4 zi5 	樣子	c=2 d=1.89583 t=658
+yao4 	要	c=3 d=1.23434 t=1247
+yao4 shi4 	要是	c=3 d=2.60906 t=203
+yao4 shi5 	鑰匙	c=2 d=1.80654 t=204
+ye1 	耶	c=3 d=1.04445 t=1466
+ye3 	也	c=8 d=2.30191 t=1008
+ye3 dou1 	也都	c=1 d=1 t=468
+ye3 dui4 	也對	c=1 d=1 t=1367
+ye3 shi4 	也是	c=2 d=1.07136 t=845
+ye3 suan4 shi4 	也算是	c=2 d=1.89583 t=659
+ye3 xin1 	野心	c=1 d=1 t=134
+ye3 xu3 	也許	c=1 d=1 t=780
+ye3 you3 	也有	c=1 d=1 t=714
+ye4 	葉	c=2 d=1.99005 t=1344
+yi1 	一	c=6 d=1.54168 t=959
+yi1 chang2 	一場	c=1 d=1 t=994
+yi1 dao4 	一道	c=2 d=1.85214 t=182
+yi1 hao4 	一號	c=1 d=1 t=860
+yi1 jian4 	一件	c=1 d=1 t=1115
+yi1 jiu4 	依舊	c=1 d=1 t=243
+yi1 kuai4 	一塊	c=2 d=1.90032 t=662
+yi1 nian2 	一年	c=1 d=1 t=991
+yi1 nian4 	一念	c=1 d=1 t=992
+yi1 qi3 	一起	c=1 d=1 t=629
+yi1 ran2 	依然	c=1 d=1 t=1012
+yi1 ren2 	一人	c=1 d=1 t=1331
+yi1 tao4 	一套	c=1 d=1 t=74
+yi1 xia4 	一下	c=2 d=1.02171 t=798
+yi1 zhang1 	一張	c=1 d=1 t=539
+yi1 zhao4 	依照	c=1 d=1 t=702
+yi1 zuo4 	一座	c=1 d=1 t=181
+yi2 ge4 	一個	c=6 d=1.34681 t=1406
+yi2 ge4 fan3 er2 	一個反而	c=1 d=1 t=35
+yi2 han4 	遺憾	c=1 d=1 t=522
+yi2 si4 	疑似	c=1 d=1 t=202
+yi3 	以	c=5 d=1.97776 t=1452
+yi3 hou4 	以後	c=1 d=1 t=751
+yi3 jing1 	已經	c=1 d=1 t=576
+yi4 	譯	c=1 d=1 t=1389
+yi4 jian4 	意見	c=1 d=1 t=1114
+yi4 shu4 	藝術	c=1 d=1 t=1219
+yi4 si5 	意思	c=1 d=1 t=201
+yi4 tu2 	意圖	c=1 d=1 t=130
+yi4 zhong3 	一種	c=2 d=1.04097 t=1065
+yin1 	因	c=2 d=1.58275 t=1313
+yin1 ci3 	因此	c=1 d=1 t=1189
+yin1 wei4 	因爲	c=2 d=1.02844 t=1207
+yin1 yue4 	音樂	c=3 d=2.95581 t=1035
+yin3 fa1 	引發	c=1 d=1 t=1180
+yin3 man2 	隱瞞	c=1 d=1 t=1428
+ying1 gai1 	應該	c=1 d=1 t=1399
+ying1 shi4 	應是	c=1 d=1 t=237
+ying3 shi4 	影視	c=1 d=1 t=236
+ying4 ru4 	映入	c=1 d=1 t=896
+yong3 you3 	擁有	c=1 d=1 t=135
+you3 	有	c=8 d=1.85974 t=1457
+you3 dian3 	有點	c=1 d=1 t=534
+you4 	又	c=3 d=1.04521 t=1459
+you4 lai2 	又來	c=1 d=1 t=1119
+yu2 	於	c=2 d=1.73345 t=1051
+yu2 le4 	娛樂	c=1 d=1 t=1355
+yu3 	與	c=3 d=1.09731 t=1052
+yu3 	語	c=2 d=1.28794 t=551
+yu3 wo3 	與我	c=1 d=1 t=469
+yu3 yan2 	語言	c=3 d=1.3832 t=936
+yu3 yi3 	予以	c=1 d=1 t=1222
+yu4 ji4 	預計	c=1 d=1 t=1396
+yuan2 	員	c=1 d=1 t=1202
+yuan2 li3 	原理	c=1 d=1 t=431
+yuan2 sheng1 dai4 	原聲帶	c=1 d=1 t=544
+yuan2 su4 	元素	c=1 d=1 t=533
+yuan2 xing2 	圓形	c=1 d=1 t=13
+yuan3 li2 	遠離	c=1 d=1 t=432
+yun2 	耘	c=1 d=1 t=9
+yun4 	暈	c=4 d=3.20478 t=1272
+yun4 zhuan3 	運轉	c=1 d=1 t=1018
+zai1 	災	c=1 d=1 t=1328
+zai4 	在	c=17 d=5.05907 t=1277
+zai4 jia1 	在家	c=1 d=1 t=1373
+zan2 	咱	c=1 d=1 t=679
+zang4 song4 	葬送	c=1 d=1 t=1434
+zao1 dao4 	遭到	c=2 d=1.99501 t=1324
+zao1 shou4 	遭受	c=1 d=1 t=1325
+zao3 chen2 	早晨	c=1 d=1 t=969
+zao3 nian2 	早年	c=1 d=1 t=1206
+zao3 shang5 	早上	c=2 d=1.99501 t=676
+zao4 cheng2 	造成	c=4 d=3.53152 t=442
+zao4 yin1 	噪音	c=3 d=1.28455 t=1414
+ze2 	則	c=1 d=1 t=1363
+zen3 me5 	怎麽	c=1 d=1 t=745
+zhan4 	棧	c=2 d=1.57121 t=1310
+zhao3 	找	c=1 d=1 t=448
+zhao3 bu5 dao4 	找不到	c=1 d=1 t=290
+zhe1 yan3 	遮掩	c=1 d=1 t=709
+zhe3 	者	c=1 d=1 t=1295
+zhe4 	這	c=4 d=1.48218 t=887
+zhe4 bei4 zi5 	這輩子	c=1 d=1 t=304
+zhe4 ge5 	這個	c=5 d=1.99602 t=985
+zhe4 ju4 hua4 	這句話	c=1 d=1 t=124
+zhe4 li3 	這裏	c=1 d=1 t=352
+zhe4 shi4 	這是	c=1 d=1 t=425
+zhe4 yang4 	這樣	c=5 d=1.12596 t=1426
+zhe4 yi1 	這一	c=1 d=1 t=984
+zhe4 zhang1 	這張	c=1 d=1 t=525
+zhe4 zhong3 	這種	c=1 d=1 t=747
+zhe5 	着	c=1 d=1 t=214
+zhen1 de5 	真的	c=2 d=1.97531 t=57
+zhen1 ge4 	真個	c=1 d=1 t=877
+zheng1 yang2 	正陽	c=1 d=1 t=417
+zheng3 ge5 	整個	c=1 d=1 t=878
+zheng3 tiao2 	整條	c=1 d=1 t=104
+zheng4 ming2 	證明	c=1 d=1 t=128
+zhi1 	之	c=1 d=1 t=1327
+zhi1 chi2 	支持	c=1 d=1 t=6
+zhi1 dao4 	知道	c=2 d=1.01133 t=1312
+zhi1 hou4 	之後	c=3 d=1.11434 t=1173
+zhi1 jian1 	之間	c=1 d=1 t=993
+zhi1 lei4 	之類	c=0 d=0.1 t=760
+zhi1 lei4 de5 	之類的	c=2 d=1.89137 t=784
+zhi1 qian2 	之前	c=1 d=1 t=27
+zhi1 ren2 	之人	c=4 d=2.27704 t=1351
+zhi2 	擲	c=1 d=1 t=95
+zhi2 dao4 	直到	c=1 d=1 t=1317
+zhi2 gan3 	質感	c=1 d=1 t=1465
+zhi2 jie1 	直接	c=1 d=1 t=555
+zhi3 sheng4 xia4 	只剩下	c=1 d=1 t=314
+zhi3 shi4 	只是	c=2 d=1.2265 t=367
+zhi3 yao1 	只要	c=4 d=1.20782 t=1296
+zhi3 you3 	只有	c=1 d=1 t=848
+zhi4 jin1 	至今	c=1 d=1 t=1337
+zhi4 shao3 	至少	c=2 d=1.03474 t=786
+zhong1 	中	c=5 d=3.03933 t=1230
+zhong1 duan1 	終端	c=1 d=1 t=1419
+zhong1 duan4 	中斷	c=1 d=1 t=1420
+zhong1 jian1 	中間	c=1 d=1 t=1417
+zhong1 jiu4 	終究	c=1 d=1 t=69
+zhong1 wu3 	中午	c=1 d=1 t=686
+zhong1 yang1 	中央	c=2 d=1.93707 t=349
+zhou1 	周	c=1 d=1 t=328
+zhou1 nian2 	週年	c=1 d=1 t=1047
+zhou1 wei2 	周圍	c=2 d=1.98511 t=1072
+zhou1 zao1 	週遭	c=1 d=1 t=1057
+zhu3 ti2 	主題	c=1 d=1 t=570
+zhu3 yao1 	主要	c=1 d=1 t=1401
+zhu3 yao1 shi4 	主要是	c=1 d=1 t=1460
+zhu4 cheng1 	著稱	c=1 d=1 t=1129
+zhu4 ni3 	祝你	c=1 d=0.651563 t=244
+zhu4 ni3 hao3 yun4 	祝你好運	c=1 d=1 t=245
+zhu4 zai4 	住在	c=1 d=1 t=691
+zhuan3 	轉	c=4 d=2.86324 t=1388
+zhuan3 cun1 	轉村	c=1 d=1 t=1273
+zhuan3 dong4 	轉動	c=1 d=1 t=1013
+zhuan3 hua4 	轉化	c=1 d=1 t=1258
+zhuan3 xiang4 	轉向	c=1 d=1 t=1153
+zhuo1 	桌	c=1 d=1 t=363
+zhuo1 qiu2 	桌球	c=1 d=1 t=362
+zi1 xun2 	諮詢	c=1 d=1 t=549
+zi1 xun4 	資訊	c=1 d=1 t=550
+zi4 cong2 	自從	c=1 d=1 t=717
+zi4 ding4 	自定	c=1 d=1 t=78
+zi4 ji3 	自己	c=1 d=1 t=87
+zi4 ran2 	自然	c=1 d=1 t=1290
+zi4 si1 	自私	c=2 d=1.8311 t=420
+zong1 jiao4 	宗教	c=2 d=1.94176 t=1179
+zong3 jue2 	總覺	c=0 d=0.1 t=798
+zong3 jue2 de5 	總覺的	c=2 d=1.96079 t=807
+zou3 lang2 	走廊	c=1 d=1 t=106
+zu2 gou4 	足夠	c=2 d=1.03474 t=1249
+zu2 ji1 	足跡	c=2 d=1.95123 t=1104
+zu2 yi3 	足以	c=1 d=1 t=127
+zui3 	嘴	c=1 d=1 t=520
+zui4 	最	c=1 d=1 t=511
+zui4 hao3 	最好	c=2 d=1.96561 t=446
+zui4 hou4 	最後	c=1 d=1 t=15
+zui4 qiang2 	最強	c=1 d=1 t=345
+zui4 xin1 	最新	c=1 d=1 t=918
+zuo4 	做	c=2 d=1.0319 t=774
+zuo4 jia1 	作家	c=4 d=3.09993 t=811
+zuo4 jie1 	做街	c=1 d=1 t=810
+zuo4 pin3 	作品	c=3 d=2.70336 t=1265

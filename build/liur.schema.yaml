@@ -1,0 +1,278 @@
+__build_info:
+  rime_version: 1.11.2
+  timestamps:
+    default: 1712534399
+    default.custom: 1724078340
+    liur.custom: 1656695039
+    liur.schema: 1724160935
+engine:
+  filters:
+    - simplifier
+    - "simplifier@liu_w2c"
+    - "simplifier@zh_tw"
+    - uniquifier
+    - "reverse_lookup_filter@phonetic_reverse_lookup"
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - "affix_segmentor@mkst"
+    - "affix_segmentor@liurqry"
+    - "affix_segmentor@pinyin"
+    - "affix_segmentor@phonetic"
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - "table_translator@mkst"
+    - "table_translator@fixed"
+    - "table_translator@liurqry"
+    - table_translator
+    - "script_translator@pinyin"
+    - "script_translator@phonetic"
+fixed:
+  comment_format:
+    - "xform/^~(.+)$/>[$1]"
+  db_class: tabledb
+  dictionary: liur.extended
+  disable_user_dict_for_patterns:
+    - "^[',.].*$"
+  enable_charset_filter: true
+  enable_completion: true
+  enable_encoder: true
+  enable_sentence: false
+  enable_user_dict: true
+  encode_commit_history: false
+  initial_quality: 100
+  max_phrase_length: 10
+key_binder:
+  bindings:
+    - {accept: space, send: Escape, when: composing}
+    - {accept: space, send: space, when: has_menu}
+    - {accept: period, send: period, when: has_menu}
+    - {accept: "Control+period", toggle: simplification, when: always}
+    - {accept: "Control+apostrophe", toggle: liu_w2c, when: always}
+    - {accept: "Shift+space", toggle: full_shape, when: always}
+liu_w2c:
+  opencc_config: liu_w2c.json
+  option_name: liu_w2c
+  show_in_comment: true
+  tags:
+    - pinyin
+    - mkst
+    - phonetic
+  tips: all
+liurqry:
+  closing_tips: "【蝦米】"
+  comment_format:
+    - "xform/^~(.+)$/>[$1]"
+  db_class: tabledb
+  dictionary: liur.extended
+  disable_user_dict_for_patterns:
+    - "^[',.].*$"
+  enable_charset_filter: true
+  enable_completion: true
+  enable_encoder: false
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  initial_quality: 300
+  max_phrase_length: 10
+  prefix: ";;"
+  suffix: "'"
+  tag: liurqry
+  tips: "【反查讀音】"
+menu:
+  page_size: 5
+mkst:
+  comment_format:
+    - "xform/^~(.+)$/>[$1]"
+  db_class: tabledb
+  dictionary: liur.extended
+  disable_user_dict_for_patterns:
+    - "^[',.].*$"
+  enable_charset_filter: true
+  enable_completion: true
+  enable_encoder: false
+  enable_sentence: true
+  enable_user_dict: false
+  encode_commit_history: false
+  initial_quality: 10
+  max_phrase_length: 10
+  prefix: ";"
+  tag: mkst
+  tips: "〔造詞〕"
+phonetic:
+  closing_tips: "【蝦米】"
+  comment_format:
+    - "xlit|abcdefghijklmnopqrstuvwxyz[];',.|abcdefghijklmnopqrstuvwxyz[];',.|"
+  dictionary: terra_pinyin
+  initial_quality: 1.1
+  preedit_format:
+    - "xlit|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347'|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˉˊˇˋ˙ |"
+  prefix: "';"
+  prism: bopomofo_tw
+  suffix: "'"
+  tag: phonetic
+  tips: "【注音】"
+phonetic_reverse_lookup:
+  comment_format:
+    - "xform/e?r5$/er5/"
+    - "xform/iu/iou/"
+    - "xform/ui/uei/"
+    - "xform/ong/ung/"
+    - "xform/yi?/i/"
+    - "xform/wu?/u/"
+    - "xform/iu/v/"
+    - "xform/([jqx])u/$1v/"
+    - "xform/([iuv])n/$1en/"
+    - "xform/zh/Z/"
+    - "xform/ch/C/"
+    - "xform/sh/S/"
+    - "xform/ai/A/"
+    - "xform/ei/I/"
+    - "xform/ao/O/"
+    - "xform/ou/U/"
+    - "xform/ang/K/"
+    - "xform/eng/G/"
+    - "xform/an/M/"
+    - "xform/en/N/"
+    - "xform/er/R/"
+    - "xform/eh/E/"
+    - "xform/([iv])e/$1E/"
+    - "xform/1//"
+    - "xlit|bpmfdtnlgkhjqxZCSrzcsiuvaoeEAIOUMNKGR2345|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˊˇˋ˙|"
+    - "xform/ /} {/"
+    - "xform/^/ {"
+    - "xform/$/}/"
+  dictionary: terra_pinyin
+  overwrite_comment: true
+  tags:
+    - liurqry
+pinyin:
+  closing_tips: "【蝦米】"
+  dictionary: luna_pinyin
+  initial_quality: 0.2
+  preedit_format:
+    - "xform/([nl])v/$1ü/"
+    - "xform/([nl])ue/$1üe/"
+    - "xform/([jqxy])v/$1u/"
+  prefix: "`"
+  suffix: "'"
+  tag: pinyin
+  tips: "【拼音】"
+punctuator:
+  full_shape:
+    "!": {commit: "！"}
+    "\"": {pair: ["“", "”"]}
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤", "₩"]
+    "%": ["％", "°", "℃"]
+    "&": "＆"
+    "'": ["、"]
+    "(": "（"
+    ")": "）"
+    "*": ["＊", "·", "・", "×", "※", "❂"]
+    "+": "＋"
+    "-": "－"
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "<": ["《", "〈", "«", "‹", "⟨"]
+    "=": ["＝", "々", "〃"]
+    ">": ["》", "〉", "»", "›", "⟩"]
+    "?": {commit: "？"}
+    "`": "｀"
+    "{": ["『", "〖", "｛"]
+    "}": ["』", "〗", "｝"]
+    "~": "～"
+  half_shape:
+    "!": {commit: "！"}
+    "$": ["￥", "$", "€", "£", "¥", "¢", "¤", "₩"]
+    "%": ["％", "°", "℃"]
+    "&": "＆"
+    "'": ["、"]
+    "(": "（"
+    ")": "）"
+    "*": ["＊", "·", "・", "×", "※", "❂"]
+    "+": "＋"
+    ",": {commit: "，"}
+    .: {commit: "。"}
+    ":": {commit: "："}
+    ";": {commit: "；"}
+    "=": ["＝", "々", "〃"]
+    "?": {commit: "？"}
+    "[": ["「", "【", "〔", "［", "〚", "〘"]
+    "]": ["」", "】", "〕", "］", "〛", "〙"]
+    "^": {commit: "……"}
+    _: "——"
+    "`": "｀"
+    "{": ["『", "〖", "｛"]
+    "}": ["』", "〗", "｝"]
+    "~": "～"
+recognizer:
+  import_preset: default
+  patterns:
+    email: "^[a-z][-_.0-9a-z]*@.*$"
+    liurqry: ";;[a-z']*'?$"
+    mkst: "^;[a-z,.'`]*$"
+    phonetic: "';[1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/6347-]*'?$"
+    pinyin: "`[a-z']*'?$"
+    punct: "^/([0-9]0?|[A-Za-z]+)$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    url: "^(www[.]|https?:|ftp:|mailto:).*$"
+schema:
+  author: "制作人"
+  description: "蝦米-拼音-注音反查輸入法"
+  name: "蝦米輸入法"
+  schema_id: liur
+  version: 20181227
+simplifier:
+  tips: all
+speller:
+  algebra:
+    - "xform/^~(.*)$/$1"
+  alphabet: "abcdefghijklmnopqrstuvwxyz[];',."
+  delimiter: "`"
+switches:
+  - name: ascii_mode
+    reset: 0
+  - name: full_shape
+  - name: liu_w2c
+    reset: 0
+    states: ["正常", "反查"]
+  - name: extended_charset
+    reset: 0
+    states: ["常用", "擴充字集"]
+  - name: simplification
+    states: ["繁體", "简体"]
+  - name: zh_tw
+    reset: 1
+translator:
+  comment_format:
+    - "xform/^~(.+)$/>[$1]"
+  db_class: tabledb
+  dictionary: liur.extended
+  disable_user_dict_for_patterns:
+    - "^[',.].*$"
+  enable_charset_filter: true
+  enable_completion: true
+  enable_encoder: false
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  initial_quality: 1000
+  max_phrase_length: 10
+zh_tw:
+  opencc_config: t2tw.json
+  option_name: zh_tw
+  tags:
+    - pinyin
+    - phonetic
