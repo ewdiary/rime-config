@@ -1,7 +1,7 @@
-distribution_code_name: "ibus-rime"
-distribution_name: Rime
-distribution_version: 1.5.0
+distribution_code_name: Weasel
+distribution_name: Weasel
+distribution_version: 0.16.1
 install_time: "Mon Mar 25 08:11:07 2024"
 installation_id: "79ab5cc6-16fb-466f-9b2a-142e70327c72"
 rime_version: 1.11.2
-update_time: "Wed Aug 21 16:27:00 2024"
+update_time: "Thu Aug 22 19:08:23 2024"
